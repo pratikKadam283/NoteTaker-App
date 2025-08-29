@@ -66,10 +66,10 @@ NoteTaker/
 
 
 
-![Home Page](screenshots/HomePage.png)
-![Add Note](screenshots/AddNote.png)
-![All Notes](screenshots/ShowNotes.png)
-![Edit Note](screenshots/EditNote.png)
+![screenshots](HomePage.png)
+![screenshots](AddNote.png)
+![screenshots](ShowNotes.png)
+![screenshots](EditNote.png)
 
 ---
 
