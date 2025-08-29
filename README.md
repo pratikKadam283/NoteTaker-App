@@ -59,18 +59,6 @@ NoteTaker/
    ```
    http://localhost:8080/NoteTaker
    ```
-
----
-
-## 📸 **Screenshots**
-
-
-
-![screenshots](screenshots/HomePage.png)
-![screenshots](screenshots/AddNote.png)
-![screenshots](screenshots/ShowNotes.png)
-![screenshots](screenshots/EditNote.png)
-
 ---
 
 ## 🤝 **Contributing**
