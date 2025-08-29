@@ -64,11 +64,12 @@ NoteTaker/
 
 ## 📸 **Screenshots**
 
-> Replace placeholders with your actual screenshots (store them in a `/screenshots` folder inside the repo).
 
-![Home Page](screenshots/home.png)
-![Add Note](screenshots/add_note.png)
-![All Notes](screenshots/all_notes.png)
+
+![Home Page](screenshots/HomePage.png)
+![Add Note](screenshots/AddNote.png)
+![All Notes](screenshots/ShowNotes.png)
+![Edit Note](screenshots/EditNote.png)
 
 ---
 
